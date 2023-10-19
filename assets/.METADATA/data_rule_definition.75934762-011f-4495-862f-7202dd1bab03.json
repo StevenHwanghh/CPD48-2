@@ -1,0 +1,1 @@
+{"metadata":[{"version":3,"definition":{"name":"Verify_content_exists_and_not_null","description":"","expression":"column exists and len(column)>0","dimension":{"id":"371114cd-5516-4691-8b2e-1e66edf66486"},"id":"75934762-011f-4495-862f-7202dd1bab03","href":"/data_quality/v3/projects/7ea722ef-8037-4161-8012-a3fc24b09b9b/definitions/75934762-011f-4495-862f-7202dd1bab03"}}]}
